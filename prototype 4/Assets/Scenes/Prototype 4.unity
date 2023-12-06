@@ -809,7 +809,7 @@ MonoBehaviour:
   EnemyPrefab: {fileID: 4961602925290919749, guid: ca5ef446b7aadae44aa1a6c1cb0fff16, type: 3}
   enemyCount: 0
   waveNumber: 1
-  powerupPrefab: {fileID: 992562680}
+  powerupPrefab: {fileID: 3507975396299539431, guid: 527624bf0a8b5c94f94774a91998eced, type: 3}
 --- !u!1001 &798700207224317225
 PrefabInstance:
   m_ObjectHideFlags: 0
